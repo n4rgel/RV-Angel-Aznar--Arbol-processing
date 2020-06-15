@@ -26,6 +26,8 @@ int tamano=190;
 
 int multiplicador_hojas=2;
 
+Como consideración añadir más niveles y mayor rango de giro puede dar resultados mucho más realistas, aunque con la penalización de un coste de cómputo mayor.
+
 
 ![alt text](https://raw.githubusercontent.com/n4rgel/RV-Angel-Aznar--Arbol-processing/master/pino.PNG)
 
