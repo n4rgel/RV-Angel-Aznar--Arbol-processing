@@ -29,3 +29,7 @@ int multiplicador_hojas=2;
 
 ![alt text](https://raw.githubusercontent.com/n4rgel/RV-Angel-Aznar--Arbol-processing/master/pino.PNG)
 
+
+Como referencias he usado la documentación que processing me ofrece así como este proyecto de la comunidad realizado por Giovanni Carlo Mingati:
+https://www.openprocessing.org/sketch/6991/#
+
